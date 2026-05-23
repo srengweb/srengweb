@@ -18,16 +18,6 @@
 
 ---
 
-## ⚡ Tech Stack
-
-<p align="center">
-
-<img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,nodejs,express,firebase,git,github,vscode,tailwind" />
-
-</p>
-
----
-
 ## 🚀 Featured Project
 
 ### 🌐 Personal Portfolio
